@@ -18,3 +18,4 @@ class Assets {
     return require("./icons/telescope.png");
   }
 }
+export default new Assets();
