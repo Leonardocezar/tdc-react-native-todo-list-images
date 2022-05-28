@@ -1,0 +1,11 @@
+{
+  "name": "images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Leonardocezar/tdc-react-native-todo-list-images.git",
+  "author": "Leonardo Cezar <leonardo.cezar@olist.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^17.0.36"
+  }
+}
