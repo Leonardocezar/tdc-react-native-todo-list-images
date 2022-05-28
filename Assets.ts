@@ -6,10 +6,10 @@ class Assets {
     return require("./icons/folder.png");
   }
   get highlitherIcon() {
-    return require("./icons/highlither.png");
+    return require("./icons/highlighter.png");
   }
   get mortalboardIcon() {
-    return require("./icons/mortalboard.png");
+    return require("./icons/mortarboard.png");
   }
   get paperplaneIcon() {
     return require("./icons/paper-plane.png");
